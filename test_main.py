@@ -19,4 +19,4 @@ def test_div():
 def test_mod():
     assert modulo(45,4)==1
     assert modulo(23,1)==0
-    assert modulo (34,10)==4
+    assert modulo (34,9)==7
